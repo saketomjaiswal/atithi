@@ -2,13 +2,16 @@ class HomeController < ApplicationController
   def index
   end
 
-  def login
-  	
+  def we_are_offering
   end
 
-  def log_in
+  def who_we_are
   end
 
-  def sign_up
+  def contact_us
   end
+
+  def about_us
+  end
+
 end
